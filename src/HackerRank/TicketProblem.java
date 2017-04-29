@@ -12,6 +12,7 @@ import java.util.Arrays;
  * @author nbhirud
  */
 
+// This code finds the length of the longest subsequence of the numbers in the array where the consequtive numbers are either same or differ by 1.
 public class TicketProblem {
 
     public static void main(String[] args) {
