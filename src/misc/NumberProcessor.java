@@ -19,6 +19,8 @@ public class NumberProcessor {
 			arr[i] = (float) (Math.random()*100)%100;
 		}
 		return arr;
+                
+                
 	}
 	
 	public void printFloatArray(float[] farr) {

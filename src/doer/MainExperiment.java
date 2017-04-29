@@ -30,6 +30,13 @@ public class MainExperiment {
 //		s.printStack();
 //		System.out.println("Popped: "+s.pop());
 //		s.printStack();
+
+double d = 1.1;
+long l = 1;
+System.out.println(d*l);
+
+Float f = 1.12f;
+byte b = f.byteValue();
 		
 		
 	}
